@@ -1,0 +1,222 @@
+[
+  {
+    "Id": 1,
+    "RoleId": 2,
+    "FirstName": "Иван",
+    "MiddleName": "Петрович",
+    "LastName": "Сидоров",
+    "Phone": "+7 (123) 456-7890",
+    "Email": "ivan.sidorov@example.com",
+    "Login": "ivan123",
+    "Password": "password123"
+  },
+  {
+    "Id": 2,
+    "RoleId": 3,
+    "FirstName": "Елена",
+    "MiddleName": "Ивановна",
+    "LastName": "Козлова",
+    "Phone": "+7 (987) 654-3210",
+    "Email": "elena.kozlova@example.com",
+    "Login": "elena123",
+    "Password": "qwerty123"
+  },
+  {
+    "Id": 3,
+    "RoleId": 1,
+    "FirstName": "Алексей",
+    "MiddleName": "Алексеевич",
+    "LastName": "Иванов",
+    "Phone": "+7 (111) 222-3333",
+    "Email": "alex.ivanov@example.com",
+    "Login": "alex123",
+    "Password": "pass123"
+  },
+  {
+    "Id": 4,
+    "RoleId": 2,
+    "FirstName": "Мария",
+    "MiddleName": "Александровна",
+    "LastName": "Петрова",
+    "Phone": "+7 (555) 666-7777",
+    "Email": "maria.petrova@example.com",
+    "Login": "maria123",
+    "Password": "mariaPass123"
+  },
+  {
+    "Id": 5,
+    "RoleId": 3,
+    "FirstName": "Дмитрий",
+    "MiddleName": "Дмитриевич",
+    "LastName": "Смирнов",
+    "Phone": "+7 (777) 888-9999",
+    "Email": "dmitry.smirnov@example.com",
+    "Login": "dmitry123",
+    "Password": "dmitryPass123"
+  },
+  {
+    "Id": 6,
+    "RoleId": 1,
+    "FirstName": "Анна",
+    "MiddleName": "Сергеевна",
+    "LastName": "Кузнецова",
+    "Phone": "+7 (987) 654-3210",
+    "Email": "anna.kuznetsova@example.com",
+    "Login": "anna123",
+    "Password": "annaPass123"
+  },
+  {
+    "Id": 7,
+    "RoleId": 2,
+    "FirstName": "Артем",
+    "MiddleName": "Артемович",
+    "LastName": "Новиков",
+    "Phone": "+7 (111) 222-3333",
+    "Email": "artem.novikov@example.com",
+    "Login": "artem123",
+    "Password": "artemPass123"
+  },
+  {
+    "Id": 8,
+    "RoleId": 3,
+    "FirstName": "Светлана",
+    "MiddleName": "Сергеевна",
+    "LastName": "Федорова",
+    "Phone": "+7 (555) 666-7777",
+    "Email": "svetlana.fedorova@example.com",
+    "Login": "svetlana123",
+    "Password": "svetlanaPass123"
+  },
+  {
+    "Id": 9,
+    "RoleId": 1,
+    "FirstName": "Максим",
+    "MiddleName": "Максимович",
+    "LastName": "Морозов",
+    "Phone": "+7 (777) 888-9999",
+    "Email": "maxim.morozov@example.com",
+    "Login": "maxim123",
+    "Password": "maximPass123"
+  },
+  {
+    "Id": 10,
+    "RoleId": 2,
+    "FirstName": "Екатерина",
+    "MiddleName": "Александровна",
+    "LastName": "Волкова",
+    "Phone": "+7 (123) 456-7890",
+    "Email": "ekaterina.volkova@example.com",
+    "Login": "ekaterina123",
+    "Password": "ekaterinaPass123"
+  },
+  {
+    "Id": 11,
+    "RoleId": 3,
+    "FirstName": "Игорь",
+    "MiddleName": "Игоревич",
+    "LastName": "Кузнецов",
+    "Phone": "+7 (987) 654-3210",
+    "Email": "igor.kuznetsov@example.com",
+    "Login": "igor123",
+    "Password": "igorPass123"
+  },
+  {
+    "Id": 12,
+    "RoleId": 1,
+    "FirstName": "Ольга",
+    "MiddleName": "Олеговна",
+    "LastName": "Соколова",
+    "Phone": "+7 (111) 222-3333",
+    "Email": "olga.sokolova@example.com",
+    "Login": "olga123",
+    "Password": "olgaPass123"
+  },
+  {
+    "Id": 13,
+    "RoleId": 2,
+    "FirstName": "Павел",
+    "MiddleName": "Павлович",
+    "LastName": "Козлов",
+    "Phone": "+7 (555) 666-7777",
+    "Email": "pavel.kozlov@example.com",
+    "Login": "pavel123",
+    "Password": "pavelPass123"
+  },
+  {
+    "Id": 14,
+    "RoleId": 3,
+    "FirstName": "Анастасия",
+    "MiddleName": "Владимировна",
+    "LastName": "Попова",
+    "Phone": "+7 (777) 888-9999",
+    "Email": "anastasia.popova@example.com",
+    "Login": "anastasia123",
+    "Password": "anastasiaPass123"
+  },
+  {
+    "Id": 15,
+    "RoleId": 1,
+    "FirstName": "Сергей",
+    "MiddleName": "Сергеевич",
+    "LastName": "Михайлов",
+    "Phone": "+7 (123) 456-7890",
+    "Email": "sergey.mikhailov@example.com",
+    "Login": "sergey123",
+    "Password": "sergeyPass123"
+  },
+  {
+    "Id": 16,
+    "RoleId": 2,
+    "FirstName": "Маргарита",
+    "MiddleName": "Михайловна",
+    "LastName": "Николаева",
+    "Phone": "+7 (987) 654-3210",
+    "Email": "margarita.nikolaeva@example.com",
+    "Login": "margarita123",
+    "Password": "margaritaPass123"
+  },
+  {
+    "Id": 17,
+    "RoleId": 3,
+    "FirstName": "Никита",
+    "MiddleName": "Никитич",
+    "LastName": "Морозов",
+    "Phone": "+7 (111) 222-3333",
+    "Email": "nikita.morozov@example.com",
+    "Login": "nikita123",
+    "Password": "nikitaPass123"
+  },
+  {
+    "Id": 18,
+    "RoleId": 1,
+    "FirstName": "Александра",
+    "MiddleName": "Александровна",
+    "LastName": "Иванова",
+    "Phone": "+7 (555) 666-7777",
+    "Email": "alexandra.ivanova@example.com",
+    "Login": "alexandra123",
+    "Password": "alexandraPass123"
+  },
+  {
+    "Id": 19,
+    "RoleId": 2,
+    "FirstName": "Владимир",
+    "MiddleName": "Владимирович",
+    "LastName": "Смирнов",
+    "Phone": "+7 (777) 888-9999",
+    "Email": "vladimir.smirnov@example.com",
+    "Login": "vladimir123",
+    "Password": "vladimirPass123"
+  },
+  {
+    "Id": 20,
+    "RoleId": 3,
+    "FirstName": "Юлия",
+    "MiddleName": "Юрьевна",
+    "LastName": "Петрова",
+    "Phone": "+7 (123) 456-7890",
+    "Email": "yulia.petrova@example.com",
+    "Login": "yulia123",
+    "Password": "yuliaPass123"
+  }
+]

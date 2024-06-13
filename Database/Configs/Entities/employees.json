@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "UserId": 1,
+    "PositionId": 1
+  },
+  {
+    "Id": 2,
+    "UserId": 2,
+    "PositionId": 2
+  },
+  {
+    "Id": 3,
+    "UserId": 3,
+    "PositionId": 1
+  },
+  {
+    "Id": 4,
+    "UserId": 4,
+    "PositionId": 2
+  },
+  {
+    "Id": 5,
+    "UserId": 5,
+    "PositionId": 1
+  },
+  {
+    "Id": 6,
+    "UserId": 6,
+    "PositionId": 2
+  },
+  {
+    "Id": 7,
+    "UserId": 7,
+    "PositionId": 1
+  },
+  {
+    "Id": 8,
+    "UserId": 8,
+    "PositionId": 2
+  },
+  {
+    "Id": 9,
+    "UserId": 9,
+    "PositionId": 1
+  },
+  {
+    "Id": 10,
+    "UserId": 10,
+    "PositionId": 2
+  },
+  {
+    "Id": 11,
+    "UserId": 11,
+    "PositionId": 1
+  },
+  {
+    "Id": 12,
+    "UserId": 12,
+    "PositionId": 2
+  },
+  {
+    "Id": 13,
+    "UserId": 13,
+    "PositionId": 1
+  },
+  {
+    "Id": 14,
+    "UserId": 14,
+    "PositionId": 2
+  },
+  {
+    "Id": 15,
+    "UserId": 15,
+    "PositionId": 1
+  },
+  {
+    "Id": 16,
+    "UserId": 16,
+    "PositionId": 2
+  },
+  {
+    "Id": 17,
+    "UserId": 17,
+    "PositionId": 1
+  },
+  {
+    "Id": 18,
+    "UserId": 18,
+    "PositionId": 2
+  },
+  {
+    "Id": 19,
+    "UserId": 19,
+    "PositionId": 1
+  },
+  {
+    "Id": 20,
+    "UserId": 20,
+    "PositionId": 2
+  }
+]
